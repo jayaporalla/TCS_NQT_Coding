@@ -1,3 +1,4 @@
+package Arrays;
 public class SecondSmallestLargest {
     public static void main(String[] args) {
         int[] array = {21, 10, 15, 6, 4, 12, 2};
